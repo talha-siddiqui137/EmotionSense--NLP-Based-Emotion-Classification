@@ -1,0 +1,10 @@
+data/train.txt
+data/test.txt
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.vscode/
