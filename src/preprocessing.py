@@ -27,7 +27,3 @@ def preprocess_text(text: str) -> str:
     words = [w for w in words if w not in STOP_WORDS]
 
     return " ".join(words)
-
-if __name__ == "__main__":
-    sample = "I am feeling REALLY happy today!!! 123 😀"
-    print(preprocess_text(sample))
