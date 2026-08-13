@@ -41,7 +41,3 @@ def predict_emotion(text: str) -> str:
     prediction = _model.predict(vector)[0]
 
     return _id_to_emotion[prediction]
-
-if __name__ == "__main__":
-    print(predict_emotion("I am feeling really happy today"))
-    print(predict_emotion("I am so scared right now"))
