@@ -15,6 +15,16 @@
 
 </div>
 
+<br>
+
+<p align="center">
+  <img src="screenshots/main_page.png" alt="Main prediction page" width="800">
+</p>
+
+<p align="center">
+  <em>Main prediction page — try an example or type your own sentence</em>
+</p>
+
 ---
 
 ## Overview
@@ -250,6 +260,16 @@ The app includes:
 - An interactive prediction page with example sentences
 - A Project Details page covering the full model comparison and tuning process
 - An About Me page
+
+<p align="center">
+  <img src="screenshots/project_details.png" alt="Project details page" width="800">
+</p>
+<p align="center"><em>Project Details page — pipeline, model comparison, and tuning results</em></p>
+
+<p align="center">
+  <img src="screenshots/about_me.png" alt="About me page" width="800">
+</p>
+<p align="center"><em>About Me page — background, tech stack, and links</em></p>
 
 ---
 
